@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Om Bhut</h1>
 <h3 align="center">Aspiring Data Scientist 🚀 | Certified in Data Science & Python 📊 | Passionate About Data Analysis & Machine Learning 🤖</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ombhut44" alt="ombhut44" /></a> </p>
 
 - 🔭 I’m currently working on [Buddy's Traveller](https://github.com/OmBhut44/Buddy-s-Traveler.git)
 
@@ -57,6 +56,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ombhut44" alt="ombhut44" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ombhut44&show_icons=true&locale=en&layout=compact" alt="ombhut44" /></p>
 
